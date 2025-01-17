@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EurekaClientOne" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EurekaClientTwo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GLAB-310_2_1" vcs="Git" />
+  </component>
+</project>
